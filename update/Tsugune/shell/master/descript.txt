@@ -1,0 +1,8 @@
+charset,Shift_JIS
+craftman,melnus
+craftmanw,melnus
+craftmanurl,http://www.xxxxxxxxxxxxxxxx.co.jp/
+id,master
+name,master
+type,shell
+seriko.use_self_alpha,1

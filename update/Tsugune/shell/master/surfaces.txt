@@ -1,0 +1,191 @@
+charset,Shift_JIS
+
+descript
+{
+	version,1
+}
+
+// サーフェスの画像指定
+surface0
+{
+	collision0,121,93,311,188,head
+	collision1,208,335,330,399,bust
+	collision2,211,472,353,537,onaka
+	collision3,260,591,290,632,asoko
+	collision4,116,517,222,628,hip
+	collision5,39,365,141,493,hair
+	collision6,264,523,341,604,hand
+	collision7,234,229,259,253,mouse
+}
+
+surface1
+{
+	collision0,121,93,311,188,head
+	collision1,208,335,330,399,bust
+	collision2,211,472,353,537,onaka
+	collision3,260,591,290,632,asoko
+	collision4,116,517,222,628,hip
+	collision5,39,365,141,493,hair
+	collision6,264,523,341,604,hand
+	collision7,234,229,259,253,mouse
+	
+}
+
+surface2
+{
+	collision0,121,93,311,188,head
+	collision1,208,335,330,399,bust
+	collision2,211,472,353,537,onaka
+	collision3,260,591,290,632,asoko
+	collision4,116,517,222,628,hip
+	collision5,39,365,141,493,hair
+	collision6,264,523,341,604,hand
+	collision7,234,229,259,253,mouse
+}
+
+surface3
+{
+	collision0,121,93,311,188,head
+	collision1,208,335,330,399,bust
+	collision2,211,472,353,537,onaka
+	collision3,260,591,290,632,asoko
+	collision4,116,517,222,628,hip
+	collision5,39,365,141,493,hair
+	collision6,264,523,341,604,hand
+	collision7,234,229,259,253,mouse
+}
+
+surface4
+{
+	collision0,121,93,311,188,head
+	collision1,208,335,330,399,bust
+	collision2,211,472,353,537,onaka
+	collision3,260,591,290,632,asoko
+	collision4,116,517,222,628,hip
+	collision5,39,365,141,493,hair
+	collision6,264,523,341,604,hand
+	collision7,234,229,259,253,mouse
+}
+
+surface5
+{
+	collision0,121,93,311,188,head
+	collision1,208,335,330,399,bust
+	collision2,211,472,353,537,onaka
+	collision3,260,591,290,632,asoko
+	collision4,116,517,222,628,hip
+	collision5,39,365,141,493,hair
+	collision6,264,523,341,604,hand
+	collision7,234,229,259,253,mouse
+}
+
+surface6
+{
+	collision0,121,93,311,188,head
+	collision1,208,335,330,399,bust
+	collision2,211,472,353,537,onaka
+	collision3,260,591,290,632,asoko
+	collision4,116,517,222,628,hip
+	collision5,39,365,141,493,hair
+	collision6,264,523,341,604,hand
+	collision7,234,229,259,253,mouse
+}
+
+surface7
+{
+	collision0,121,93,311,188,head
+	collision1,208,335,330,399,bust
+	collision2,211,472,353,537,onaka
+	collision3,260,591,290,632,asoko
+	collision4,116,517,222,628,hip
+	collision5,39,365,141,493,hair
+	collision6,264,523,341,604,hand
+	collision7,234,229,259,253,mouse
+}
+
+surface8
+{
+	collision0,121,93,311,188,head
+	collision1,208,335,330,399,bust
+	collision2,211,472,353,537,onaka
+	collision3,260,591,290,632,asoko
+	collision4,116,517,222,628,hip
+	collision5,39,365,141,493,hair
+	collision6,264,523,341,604,hand
+	collision7,234,229,259,253,mouse
+}
+
+surface9
+{
+	collision0,121,93,311,188,head
+	collision1,208,335,330,399,bust
+	collision2,211,472,353,537,onaka
+	collision3,260,591,290,632,asoko
+	collision4,116,517,222,628,hip
+	collision5,39,365,141,493,hair
+	collision6,264,523,341,604,hand
+	collision7,234,229,259,253,mouse
+}
+
+surface11
+{
+	collision0,121,93,311,188,head
+	collision1,208,335,330,399,bust
+	collision2,211,472,353,537,onaka
+	collision3,260,591,290,632,asoko
+	collision4,116,517,222,628,hip
+	collision5,39,365,141,493,hair
+	collision6,264,523,341,604,hand
+	collision7,234,229,259,253,mouse
+}
+
+surface12
+{
+	collision0,121,93,311,188,head
+	collision1,208,335,330,399,bust
+	collision2,211,472,353,537,onaka
+	collision3,260,591,290,632,asoko
+	collision4,116,517,222,628,hip
+	collision5,39,365,141,493,hair
+	collision6,264,523,341,604,hand
+	collision7,234,229,259,253,mouse
+}
+
+// アニメーション用サーフェス
+surface1000
+{
+	element0,base,surface0000.png,0,0
+}
+
+surface1001
+{
+	element0,base,surface0002.png,0,0
+}
+
+surface1002
+{
+	element0,base,surface0001.png,0,0
+}
+
+surface.append0
+{
+	// アニメーション0番 瞬き
+	animation0.interval,rarely
+	animation0.pattern0,overlay,1000,0,0,0
+	animation0.pattern1,overlay,1001,50,0,0
+	animation0.pattern2,overlay,1000,50,0,0
+	animation0.pattern3,overlay,-1,50,0,0
+}
+
+surface.append0-1
+{
+	// アニメーション1番 口パク
+	animation1.interval,talk,1
+	animation1.pattern0,overlay,1000,0,0,0
+	animation1.pattern1,overlay,-1,150,0,0
+	animation1.pattern2,overlay,1002,150,0,0
+	animation1.pattern3,overlay,-1,150,0,0
+}
+
+
+

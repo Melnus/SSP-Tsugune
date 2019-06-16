@@ -1,0 +1,14 @@
+charset,Shift_JIS
+
+craftman,Melnus
+craftmanw,Melnus
+craftmanurl,
+
+name,ƒcƒOƒl
+type,ghost
+
+sakura.name,Œp‰¹
+kero.name,‚È‚µ
+
+icon,tsugune.ico
+shiori,satori.dll
