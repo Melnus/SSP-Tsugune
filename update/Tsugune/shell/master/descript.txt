@@ -1,7 +1,7 @@
 charset,Shift_JIS
 craftman,melnus
 craftmanw,melnus
-craftmanurl,http://www.xxxxxxxxxxxxxxxx.co.jp/
+craftmanurl,https://github.com/Melnus/SSP-Tsugune
 id,master
 name,master
 type,shell
