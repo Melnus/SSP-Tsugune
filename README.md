@@ -1,5 +1,9 @@
 # SSP-Tsugune
 <br>SSP_Ghost [Tsugune,　ツグネ]　作成中...
+<br>
+<br>更新履歴
+<br>6/16/2019/ゴースト一通り作成（まだ未完成）
+<br>
 <br>説明
 <br>ghost:作：Melnus
 <br>Shell:キャラクターなんとか機用パーツセット「少女セット」使用
