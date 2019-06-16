@@ -3,6 +3,7 @@ charset,Shift_JIS
 craftman,Melnus
 craftmanw,Melnus
 craftmanurl,
+homeurl,https://raw.githubusercontent.com/Melnus/SSP-Tsugune/master/update/Tsugune/
 
 name,ƒcƒOƒl
 type,ghost
