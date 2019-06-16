@@ -10,7 +10,7 @@
 
 
 作者：Melnus
-作者HP　URL：
+作者HP　URL：https://xrmelnus.wixsite.com/melnus/desktop-maskot
 
 
 
