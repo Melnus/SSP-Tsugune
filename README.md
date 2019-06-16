@@ -6,3 +6,4 @@
 <br>https://www.pixiv.net/member_illust.php?mode=medium&illust_id=63391966
 <br>
 <br><img src="nar/スクリーンショット 2019-06-16 22.43.35.png" alt="CC" title="Tsugune">
+<br>download link https://github.com/Melnus/SSP-Tsugune/raw/master/nar/Tsugune.nar
