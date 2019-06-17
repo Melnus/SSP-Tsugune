@@ -1,14 +1,14 @@
 file,developer_options.txta9a29245333f51b7985433688565fd5asize=462
 file,ghost/master/descript.txt8fe73c3e14e12bb4a4106a799861e220size=307
 file,ghost/master/dic00_system.txtd675589f45e04f93be9989a852e40893size=1391
-file,ghost/master/dic01_Base.txt49ec4fd4871515d353b056d1bb277e85size=3842
+file,ghost/master/dic01_Base.txte884c86b64fb53622603035f6baabb34size=3872
 file,ghost/master/dic02_Event.txt697a6d618994b62e8cc7cb6b18280bcesize=7684
 file,ghost/master/dic03_Menu.txtd31c809acc4170a6545397ab55b2d1e3size=5987
 file,ghost/master/dic04_Change.txt9db50423ab4e93af10261d1c9bd88790size=959
-file,ghost/master/dic05_Communicate.txt470fe8371ff6fa64e66e62002bde4484size=1801
+file,ghost/master/dic05_Communicate.txtd58af36e745e5f71a72954bf9edab28dsize=1863
 file,ghost/master/dic06_String.txt5376a8abe77f6cee208c53765eea862dsize=3598
 file,ghost/master/dic07_Time.txtcc5d6dd1b4514333e14c914eacb38326size=3205
-file,ghost/master/dic08_Labo.txtd8fabded477a4bb75d9bcb49c4fa3c03size=5230
+file,ghost/master/dic08_Labo.txte1e6b8fd2a223b3f3958ef3c0162a612size=5234
 file,ghost/master/dic09_zatsudan.txt20d62af31218d47c750440757eaa5391size=600
 file,ghost/master/dic10_LoveandFlirting.txt372181b938204cbf3d16c8014bab5149size=166
 file,ghost/master/dic98_koushinrireki.txt4f3beac13945e8a754185a9fd6d991f3size=46
