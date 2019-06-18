@@ -17,3 +17,6 @@
 <br>追加シェル[水着]
 <br>https://www.pixiv.net/member_illust.php?mode=medium&illust_id=75293563
 <br>https://github.com/Melnus/SSP-Tsugune/raw/master/nar/hmizugi.nar
+<br>
+<br>差分
+<br>https://github.com/Melnus/SSP-Tsugune/raw/master/nar/himitsuno.nar
