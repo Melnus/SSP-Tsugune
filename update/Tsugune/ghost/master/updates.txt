@@ -1,9 +1,9 @@
 file,developer_options.txta9a29245333f51b7985433688565fd5asize=462
 file,ghost/master/descript.txt8fe73c3e14e12bb4a4106a799861e220size=307
 file,ghost/master/dic00_system.txtd675589f45e04f93be9989a852e40893size=1391
-file,ghost/master/dic01_Base.txt130d679705718ea5fff86ea588f57ce2size=4633
-file,ghost/master/dic02_Event.txtc4fc900484015a58796647fa5173eee7size=8372
-file,ghost/master/dic03_Menu.txt07bef6b4b8702a50a17a6aa823c1b8bbsize=8406
+file,ghost/master/dic01_Base.txte6acb59c0bb040474a190b41e2d87628size=4767
+file,ghost/master/dic02_Event.txt1bea56316ff08da9dd1f03a0250aa728size=8408
+file,ghost/master/dic03_Menu.txt7404766a0e932c575f7e5136d0806647size=10767
 file,ghost/master/dic04_Change.txt9db50423ab4e93af10261d1c9bd88790size=959
 file,ghost/master/dic05_Communicate.txtc826e3afbaa2716c15e182c1a31c20b2size=2948
 file,ghost/master/dic06_String.txt5376a8abe77f6cee208c53765eea862dsize=3598
