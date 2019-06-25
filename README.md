@@ -10,6 +10,7 @@
 <br>6/17/2019/辞書内追加作業（関係性分岐はほぼ終わり？）
 <br>6/19/2019/追加シェル用辞書内分岐作業
 <br>6/20/2019/Wiki作成　＞　https://github.com/Melnus/SSP-Tsugune/wiki
+<br>6/26/2019/3D版用モデル作成　https://hub.vroid.com/characters/2727294579418687959/models/182243890626887468
 <br>
 <br>説明
 <br>ghost:作：Melnus
