@@ -18,7 +18,16 @@
 </code>
 </pre>
 </details>
+<details>
+<summary>7月</summary>
+<pre>
+<code>
 <br>7/03/2019/コミュ用辞書追加
+<br>7/11/2019/時報、反応分岐修正
+</code>
+</pre>
+</details>
+<br>
 <br>
 <br>説明
 <br>ghost:作：Melnus
