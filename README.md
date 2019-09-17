@@ -28,6 +28,14 @@
 </code>
 </pre>
 </details>
+<details>
+<summary>9月</summary>
+<pre>
+<code>
+<br>9/17/2019/コミュ用辞書追加
+</code>
+</pre>
+</details>
 <br>
 <br>
 <br>説明
