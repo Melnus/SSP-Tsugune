@@ -40,7 +40,7 @@
 <summary>10月</summary>
 <pre>
 <code>
-<br>10/16/2019/辞書追加
+<br>10/16/2019/辞書追加、コミットミスの修正
 </code>
 </pre>
 </details>
