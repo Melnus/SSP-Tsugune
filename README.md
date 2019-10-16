@@ -36,6 +36,14 @@
 </code>
 </pre>
 </details>
+<details>
+<summary>10月</summary>
+<pre>
+<code>
+<br>10/16/2019/辞書追加
+</code>
+</pre>
+</details>
 <br>
 <br>
 <br>説明
