@@ -7,7 +7,7 @@
 <br>
 <br>更新履歴
 <details>
-<summary>6月</summary>
+<summary>6月/2019</summary>
 <pre>
 <code>
 <br>6/16/2019/ゴースト一通り作成（まだ未完成）
@@ -19,7 +19,7 @@
 </pre>
 </details>
 <details>
-<summary>7月</summary>
+<summary>7月/2019</summary>
 <pre>
 <code>
 <br>7/03/2019/コミュ用辞書追加
@@ -29,7 +29,7 @@
 </pre>
 </details>
 <details>
-<summary>9月</summary>
+<summary>9月/2019</summary>
 <pre>
 <code>
 <br>9/17/2019/コミュ用辞書追加
@@ -37,10 +37,18 @@
 </pre>
 </details>
 <details>
-<summary>10月</summary>
+<summary>10月/2019</summary>
 <pre>
 <code>
 <br>10/16/2019/辞書追加、コミットミスの修正
+</code>
+</pre>
+</details>
+<details>
+<summary>1月/2020</summary>
+<pre>
+<code>
+<br>01/04/2020/他ゴーストからの変更時の辞書修正
 </code>
 </pre>
 </details>
