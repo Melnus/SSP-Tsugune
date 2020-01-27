@@ -61,7 +61,7 @@
 <pre>
 <code>
 <br>01/04/2020/他ゴーストからの変更時の辞書修正
-<br>
+<br>01/27/2020/homepage先更新等
 </code>
 </pre>
 </details>
