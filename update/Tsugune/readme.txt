@@ -10,7 +10,7 @@
 
 
 作者：Melnus
-作者HP　URL：https://xrmelnus.wixsite.com/melnus/desktop-maskot
+作者HP　URL：https://melnus.gitbook.io/melnus/info/kassp-1/kassp
 連絡等　https://www.pixiv.net/member_illust.php?mode=medium&illust_id=75265004
 
 

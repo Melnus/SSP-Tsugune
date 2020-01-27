@@ -2,7 +2,7 @@ charset,Shift_JIS
 
 craftman,Melnus
 craftmanw,Melnus
-craftmanurl,https://xrmelnus.wixsite.com/melnus/desktop-maskot
+craftmanurl,https://melnus.gitbook.io/melnus/info/kassp-1/kassp
 homeurl,https://raw.githubusercontent.com/Melnus/SSP-Tsugune/master/update/Tsugune/
 
 name,ƒcƒOƒl

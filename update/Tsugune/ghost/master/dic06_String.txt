@@ -61,39 +61,39 @@ Read me(&R)
 ＃-
 ＃「-」といれることでリンクメニューに罫線を引くことができます。 
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 ゴーストの使い方
 http://keshiki.nobody.jp/
-＊sakura.portalsites
+＃＊sakura.portalsites
 -
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 何かゴーストセンター 
 http://ngc.sherry.jp/ 
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 GHOST TOWN 
 http://ghosttown.mikage.jp/ 
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 SiReFaSo
 http://sirefaso.appspot.com/
 
 ：ゴーストの更新情報を取得しているサイトです。
 ：ここにのってたら、つい最近更新されてる。
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 Disc-2 
 http://disc2.s56.xrea.com/ 
 ：総合情報サイトです。
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 -
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 SSP BUGTRAQ 
 http://ssp.shillest.net/ 
 
@@ -101,77 +101,77 @@ http://ssp.shillest.net/
 他のは更新が止まってる。
 
 
-CROW 
+＃CROW 
 http://crow.aqrs.jp/ 
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 うさださくら 
 http://usada.sakura.vg/ 
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 -
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 里々φ/整備班カスタム
 http://ms.shillest.net/
 
 ：現時点で更新されている里々です。
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 里々φ（さとりφ） 
 http://www.geocities.co.jp/SiliconValley-Cupertino/8536/ 
 
 ：わたしたちのふるさと。
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 -
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 里々Wiki
 http://soliton.sub.jp/satori/
 
 ：里々に関するＴｉｐがまとまっているような気がします。
 ：うむ。
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 里々変数辞典
 http://members2.jcom.home.ne.jp/he-noki/uka-satori.html
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 postic
 http://navy.nm.land.to/post/
 
 ：私たちにすでに適用されているサプリメントの元配布元です。
 ：ややこしいことをしたいなら一読の価値あり。
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 UKADOC Project
 http://ukadoc.googlecode.com/svn/trunk/manual/index.html
 
 ：「SSP」の仕様書です。
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 うにゅう＠もどき 
 http://uka.jpn.org/unyu/
 
 質問用スレッドがある。
 
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 さとりすと
 http://ukananachi.blog98.fc2.com/blog-entry-551.html
 
 ：里々の辞書を読み込んで、イベント名で分類するエディタ。
 ：他にもいろいろできる。
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 -
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 うわひょ改 
 http://review.sakura.ne.jp/ 
 
-＊sakura.portalsites
+＃＊sakura.portalsites
 ゴースト回覧板２nd
 http://www3.atchs.jp/kairanban/
 
